@@ -131,15 +131,13 @@ Meskipun demikian, evaluasi perlu membedakan kinerja *retriever* dalam menemukan
 
 ---
 
-<!-- ## 5. Cara Menjalankan Notebook dan Script
+## 5. Cara Menjalankan Notebook dan Script
 
-### 5.1. Prasyarat
-- Python 3.9+
-- API Key (OpenAI API Key / Gemini API Key)
+### 5.1. Clone 
+- open terminal and type git clone https://github.com/arkhsat/assignment-semantic-search-Arkhananta-Satrya-Ariadilla.git
 
-### 5.2. Langkah Instalasi
+### 5.2. Prasyarat
+- pip install requirement.txt
 
-1. **Clone repository dan buka direktori:**
-   ```bash
-   git clone https://github.com/username/ecommerce-faq-assistant.git
-   cd ecommerce-faq-assistant -->
+### 5.3. Cara menjalankan
+- run starter_notebook_semantic_search.ipynb each cell one by one or use run all
